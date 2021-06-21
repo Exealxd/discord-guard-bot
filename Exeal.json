@@ -1,0 +1,20 @@
+{
+
+"Dokunma":[""],
+"botrolleri":[""],
+"sunucuid":"",
+"token":"",
+
+"Logs": {
+    "banlog":"",
+    "kicklog":"",
+    "rollog":"",
+    "kanallog":"",
+    "sunuculog":"",
+    "webhooklog":"",
+    "urllog":"",
+    "botkorumalog":""
+
+}
+
+}
